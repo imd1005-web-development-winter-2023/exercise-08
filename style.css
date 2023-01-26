@@ -1,0 +1,27 @@
+/* Colour the anchors (links) in the header */
+
+/* Use the psuedo hover class to make the header links a different colour when the user hovers over them */
+
+/* Colour the links in the main content area a different colour from the header links */
+
+/* Set the .dark-background class to have a dark background and light text */
+.dark-background {
+}
+
+/* Colour the links inside a dark-background class so that they are light coloured */
+
+/* Use psuedo classes nth-child(even) to give ever second list item in main a different background colour and text color
+hint: li:nth-child(odd)
+*/
+
+/* Use psuedo classes to give the last list item (last child) within a list in main a completely different background colour
+*/
+
+/******************************/
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.dark-background {
+  padding: 25px;
+}
